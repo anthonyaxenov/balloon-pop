@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/balloon_pop3.mp3-987d2207df1e3ac7c4bf19379b4d1a00.mp3str"
+
+[deps]
+
+source_file="res://assets/sounds/balloon_pop3.mp3"
+dest_files=[ "res://.import/balloon_pop3.mp3-987d2207df1e3ac7c4bf19379b4d1a00.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

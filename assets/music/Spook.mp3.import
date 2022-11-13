@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Spook.mp3-50d034e6c1565225f87c81a5fd6be306.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Spook.mp3"
+dest_files=[ "res://.import/Spook.mp3-50d034e6c1565225f87c81a5fd6be306.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

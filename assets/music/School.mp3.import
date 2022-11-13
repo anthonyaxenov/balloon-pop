@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/School.mp3-cf536f8b1f432db1061f4f866dfd2959.mp3str"
+
+[deps]
+
+source_file="res://assets/music/School.mp3"
+dest_files=[ "res://.import/School.mp3-cf536f8b1f432db1061f4f866dfd2959.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

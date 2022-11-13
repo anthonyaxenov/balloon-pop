@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Umlungu.mp3-ae8857d7c5b3513754da695033c81f87.mp3str"
+
+[deps]
+
+source_file="res://assets/music/Umlungu.mp3"
+dest_files=[ "res://.import/Umlungu.mp3-ae8857d7c5b3513754da695033c81f87.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/FastFeelBananaPeel.mp3-071b512c58045e9c78fc1064795ca9a9.mp3str"
+
+[deps]
+
+source_file="res://assets/music/FastFeelBananaPeel.mp3"
+dest_files=[ "res://.import/FastFeelBananaPeel.mp3-071b512c58045e9c78fc1064795ca9a9.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/ChillinPoupi.mp3-58564c4fcf0763c15205eb1f7ef8f129.mp3str"
+
+[deps]
+
+source_file="res://assets/music/ChillinPoupi.mp3"
+dest_files=[ "res://.import/ChillinPoupi.mp3-58564c4fcf0763c15205eb1f7ef8f129.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
